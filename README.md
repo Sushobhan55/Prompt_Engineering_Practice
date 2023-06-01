@@ -5,9 +5,8 @@ In this repository, I aim to learn Prompt Engineering. My goal is to build an ap
 ## Project Idea: Review Analyzer
 
 I aim to build an application to analyze customer reviews with the following featuers: 
-- Identify the language if the review is not in english
-  - Translate to english
-- Summarize to a specific department out of the following departments:
+
+- Summarize the review to a specific department out of the following departments:
   - Sales and marketing
   - Operations and production
   - Finance and administration
