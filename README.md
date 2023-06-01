@@ -20,7 +20,7 @@ I aim to build an application to analyze customer reviews with the following fea
 
 How about making this project more interesting by creating the application for an actual company?
 
-# Introducing NovaTech Solutions:
+## Introducing NovaTech Solutions:
 
 NovaTech Solutions is a fictitious company that specializes in the production and distribution of innovative lifestyle products. With a focus on simplicity and convenience, NovaTech Solutions has become a trusted name in the industry.
 
