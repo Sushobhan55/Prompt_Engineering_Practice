@@ -1,4 +1,4 @@
-# Prompt_Engineering_Practice
+# Prompt Engineering
 
 In this repository, I aim to learn Prompt Engineering. My goal is to build an application that will utilize prompt engineering. 
 
