@@ -6,6 +6,7 @@ In this repository, I aim to learn Prompt Engineering. My goal is to build an ap
 
 I aim to build an application to analyze customer reviews with the following featuers: 
 
+- Recognize the language and translate it to english language
 - Summarize the review to a specific department out of the following departments:
   - Sales and marketing
   - Operations and production
@@ -16,6 +17,7 @@ I aim to build an application to analyze customer reviews with the following fea
   - Extract the item name they are reviewing
 - Suggestions to the department
 - An expanded email reply to the reviewer that will include and address the details in the review
+  - Option to send the translated version of the reply email 
 
 How about making this project more interesting by creating the application for an actual company?
 
