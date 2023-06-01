@@ -39,3 +39,5 @@ To ensure the smooth operation and success of our company, NovaTech Solutions is
 3. Finance and Administration Department
 
 At NovaTech Solutions, we are committed to delivering innovative products that enhance everyday life. With our dedicated departments working in synergy, we strive to provide exceptional quality, convenience, and customer satisfaction.
+
+## Now, I am tasked to build Review Analyzer application for NovaTech Solutions. 
